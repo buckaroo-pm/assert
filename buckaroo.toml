@@ -1,0 +1,5 @@
+targets = [ "//:assert" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
