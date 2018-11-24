@@ -6,4 +6,5 @@ target = "//:config"
 
 [[lock]]
 name = "github.com/buckaroo-pm/boost-config"
-revision = "e60ff9d2778e3d2a6969859783a7c5bcc424f9a2"
+version = "branch=master"
+revision = "f2f2d0d85496b72eeff1186518deb7e23c757bfd"
