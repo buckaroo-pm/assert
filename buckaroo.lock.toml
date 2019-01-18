@@ -4,7 +4,6 @@ manifest = "6c1118fba2c33fd2fad9c01d2b7ae0fe3ea72615055c1673801e1c08eafcd1e2"
 package = "github.com/buckaroo-pm/boost-config"
 target = "//:config"
 
-[[lock]]
-name = "github.com/buckaroo-pm/boost-config"
-version = "branch=master"
-revision = "f2f2d0d85496b72eeff1186518deb7e23c757bfd"
+[lock."github.com/buckaroo-pm/boost-config"]
+versions = [ "branch=master" ]
+revision = "60c77dd14f5bac2b9e6c59f308b7ad20d31f70ab"
